@@ -73,6 +73,7 @@ input[type='url'],
 select,
 textarea {
   border-radius: 3px;
+  border-color:black;
 }
 .select2-container--default .select2-dropdown,
 .select2-container--default .select2-search .select2-search__field,
